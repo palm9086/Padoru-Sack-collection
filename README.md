@@ -15,3 +15,5 @@ scoll to zoom in
 This is for testing hit collider between two 3d object.
 
 
+https://github.com/user-attachments/assets/e83a5a97-13c8-4ea2-a907-231ce90cfece
+
