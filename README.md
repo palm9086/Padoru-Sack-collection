@@ -12,7 +12,7 @@ model will look in the same direction as where camera is pointing if not move
 and will look in the direction that it moving in if moving
 scoll to zoom in 
 
-This is for testing hit collider between two 3d object.
+This is for testing hit collider between two 3d objects.
 
 
 https://github.com/user-attachments/assets/e83a5a97-13c8-4ea2-a907-231ce90cfece
