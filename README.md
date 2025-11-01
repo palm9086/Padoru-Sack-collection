@@ -14,4 +14,4 @@ scoll to zoom in
 
 This is for testing hit collider between two 3d object.
 
-https://github.com/palm9086/Padoru-Sack-collection/blob/main/video.mp4
+
